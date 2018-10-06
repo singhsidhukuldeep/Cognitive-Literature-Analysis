@@ -13,13 +13,17 @@ Due to size limitation of the files imposed by GitHub, complete code is posted o
 
 ## Explainer Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZiSJiI0rNs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0ZiSJiI0rNs
+" target="_blank"><img src="http://img.youtube.com/vi/0ZiSJiI0rNs/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [Download Explainer video](https://github.com/singhsidhukuldeep/Cognitive-Literature-Analysis/blob/master/Documents/Microsoft%20Introduction.mp4)
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bbC3jFCFw1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbC3jFCFw1s
+" target="_blank"><img src="http://img.youtube.com/vi/bbC3jFCFw1s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [Download Demo Video](https://github.com/singhsidhukuldeep/Cognitive-Literature-Analysis/blob/master/Documents/Microsoft%20Final%20Demo.mp4)
 
