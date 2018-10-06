@@ -5,6 +5,8 @@ for full code
 
 Due to size limitation of the files imposed by GitHub, complete code is posted on BitBucket
 
+![Objectives](/images/cb6d91514e524f1e85757d2c510d2883-1.jpg)
+
 ## CREDITS
 
 >Kuldeep Singh Sidhu
