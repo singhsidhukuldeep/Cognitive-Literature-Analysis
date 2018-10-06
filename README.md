@@ -3,7 +3,9 @@
 ## Go to https://bitbucket.org/singhsidhukuldeep/microsoft-academia-accelerator-app
 for full code
 
-Due to size limitation of the files imposed by GitHub, complete code is posted on BitBucket
+![Main](/Documents/images/cb6d91514e524f1e85757d2c510d2883-8.jpg)
+
+Due to size limitation of the files imposed by GitHub, complete code is posted on BitBucket (model cannot be uploaded)
 
 ## Objective
 
@@ -11,11 +13,15 @@ Due to size limitation of the files imposed by GitHub, complete code is posted o
 
 ## Explainer Video
 
-![V1](/Documents/Microsoft Introduction.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZiSJiI0rNs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[Download Explainer video](https://github.com/singhsidhukuldeep/Cognitive-Literature-Analysis/blob/master/Documents/Microsoft%20Introduction.mp4)
 
 ## Demo Video
 
-![V2](/Documents/Microsoft Final Demo.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bbC3jFCFw1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[Download Demo Video](https://github.com/singhsidhukuldeep/Cognitive-Literature-Analysis/blob/master/Documents/Microsoft%20Final%20Demo.mp4)
 
 ## CREDITS
 
