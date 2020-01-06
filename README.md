@@ -3,9 +3,13 @@
 ## Go to https://bitbucket.org/singhsidhukuldeep/microsoft-academia-accelerator-app
 for full code
 
+Due to size limitation of the files imposed by GitHub, complete code is posted on BitBucket (model cannot be uploaded)
+
+This is our official submission for Microsoft ACAD Accelerator
+
 ![Main](/Documents/images/cb6d91514e524f1e85757d2c510d2883-8.jpg)
 
-Due to size limitation of the files imposed by GitHub, complete code is posted on BitBucket (model cannot be uploaded)
+
 
 ## Objective
 
